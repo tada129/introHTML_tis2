@@ -1,2 +1,1 @@
-# introHTML_tis2
-Introdução ao HTML TIS-T2
+# introHTML_tis2 Tomas Amaral
